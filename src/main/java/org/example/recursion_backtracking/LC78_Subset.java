@@ -1,4 +1,4 @@
-package org.example.dynamic_programming;
+package org.example.recursion_backtracking;
 
 import java.util.ArrayList;
 import java.util.List;

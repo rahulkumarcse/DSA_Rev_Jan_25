@@ -1,8 +1,6 @@
 package org.example;
 
-import org.example.dynamic_programming.LC39_CombinationSum;
-import org.example.dynamic_programming.LC40_ClimbingStairs;
-import org.example.dynamic_programming.LC509_FibonacciSeries;
+import org.example.recursion_backtracking.LC39_CombinationSum;
 
 public class Main {
     public static void main(String[] args) {
